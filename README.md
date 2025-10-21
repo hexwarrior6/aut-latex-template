@@ -11,6 +11,8 @@ A collection of LaTeX templates for Auckland University of Technology (AUT) stud
 
 This template is based on the LaTeX `article` document class, suitable for course reports, research papers, and other documents that don't require complex formatting like theses.
 
+![Article Template Preview](preview-images/article-template-preview.jpeg)
+
 **Key Features:**
 - Pre-configured with AUT-themed fonts and margins (reference paper: [Verifying Images and Media](https://ajeuk.org/wp-content/uploads/2017/06/Verifying-Images-and-Media-A5.pdf))
 - Includes basic structure for title, author, date, and abstract
@@ -25,6 +27,8 @@ This template is based on the LaTeX `article` document class, suitable for cours
 ### 🎯 Beamer Presentation Template
 
 This template is designed for creating academic presentations. **The visual theme (`.sty` style file and related resources) for this Beamer template is built upon the open-source project [sarahemarshall/aut-theme](https://github.com/sarahemarshall/aut-theme). I extend our thanks to the original author [sarahemarshall](https://github.com/sarahemarshall) for their work.
+
+![Beamer Template Preview](preview-images/beamer-template-preview.jpeg)
 
 **Key Features:**
 - Color scheme using AUT's official colors
